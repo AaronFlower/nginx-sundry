@@ -1,0 +1,14 @@
+{
+  "name": "vanilla-node",
+  "version": "1.0.0",
+  "description": "Vanilla node demo",
+  "main": "00-hello-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.1.1"
+  }
+}
